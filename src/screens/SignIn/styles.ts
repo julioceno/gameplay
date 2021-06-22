@@ -6,7 +6,6 @@ export const styles = StyleSheet.create({
       flex: 1,
       alignItems: 'center',
       justifyContent: 'center',
-      backgroundColor: theme.colors.background
     },
 
     image: {
@@ -33,4 +32,3 @@ export const styles = StyleSheet.create({
       marginBottom: 64
     },
   });
-  
